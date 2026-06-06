@@ -1,0 +1,28 @@
+{
+  "steam": [
+    { "column_name": "appid", "data_type": "int", "column_position": 1 },
+    { "column_name": "name", "data_type": "text", "column_position": 2 },
+    { "column_name": "release_date", "data_type": "text", "column_position": 3 },
+    { "column_name": "english", "data_type": "int", "column_position": 4 },
+    { "column_name": "developer", "data_type": "text", "column_position": 5 },
+    { "column_name": "publisher", "data_type": "text", "column_position": 6 },
+    { "column_name": "platforms", "data_type": "text", "column_position": 7 },
+    { "column_name": "required_age", "data_type": "int", "column_position": 8 },
+    { "column_name": "categories", "data_type": "text", "column_position": 9 },
+    { "column_name": "genres", "data_type": "text", "column_position": 10 },
+    { "column_name": "steamspy_tags", "data_type": "text", "column_position": 11 },
+    { "column_name": "achievements", "data_type": "int", "column_position": 12 },
+    { "column_name": "positive_ratings", "data_type": "int", "column_position": 13 },
+    { "column_name": "negative_ratings", "data_type": "int", "column_position": 14 },
+    { "column_name": "average_playtime", "data_type": "int", "column_position": 15 },
+    { "column_name": "median_playtime", "data_type": "int", "column_position": 16 },
+    { "column_name": "owners", "data_type": "text", "column_position": 17 },
+    { "column_name": "price", "data_type": "double", "column_position": 18 }
+  ],
+  "steam_support_info": [
+    { "column_name": "appid", "data_type": "int", "column_position": 1 },
+    { "column_name": "website", "data_type": "text", "column_position": 2 },
+    { "column_name": "support_url", "data_type": "text", "column_position": 3 },
+    { "column_name": "support_email", "data_type": "text", "column_position": 4 }
+  ]
+}
